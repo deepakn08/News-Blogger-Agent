@@ -1,0 +1,6 @@
+crewai
+crewai_tools
+dotenv
+streamlit
+# langchain_groq
+# langchain_google_genai
