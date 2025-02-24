@@ -40,7 +40,7 @@ git clone https://github.com/deepakn08/News-Blogger-Agent
 
 ### Go to the project directory  
 ```bash
-cd ai-news-agent
+cd news-blogger-agent
 ```  
 
 ### Install dependencies  
