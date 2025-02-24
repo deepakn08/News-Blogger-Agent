@@ -51,11 +51,11 @@ pip install -r requirements.txt
 ### Set up environment variables  
 Create a `.env` file and add necessary API keys and configurations (e.g., **Serper API key, Gemini API key**).  
 
-### Start the agent  
+### Start the agent on streamlit webapp
 ```bash
-python main.py
+streamlit run app.py
 ```  
-This will start the **autonomous AI agent** that will fetch, summarize, optimize, and publish news articles. 🚀    
+This will start the **autonomous AI agent** that will fetch, summarize, optimize, and publish news articles for any given location and any topic. 🚀    
 
 ---
 
